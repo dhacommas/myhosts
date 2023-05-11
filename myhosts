@@ -36,12 +36,13 @@
 0.0.0.0 fjeqkpblfb.com
 0.0.0.0 i62e2b4mfy.com
 
+#Various ads and analytics domains
 0.0.0.0 freshmarketer.com
 0.0.0.0 cdn.luckyorange.com
 0.0.0.0 w1.luckyorange.com
 0.0.0.0 browser.sentry-cdn.com
-#Various ads and analytics domains
-
+0.0.0.0 ad.votravis.me
+0.0.0.0 sport-liefhebbers.com
 0.0.0.0 analytics.facebook.com
 0.0.0.0 analytics.pointdrive.linkedin.com
 0.0.0.0 widgets.pinterest.com
